@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
   ```bash
   cargo install --git https://github.com/coral-xyz/anchor avm --locked --force
   avm install latest
-  avm use latest
+  avm use latest 
   ```
 
 - **Node.js** (v18 or later) and **Yarn**
