@@ -19,7 +19,6 @@ Before you begin, ensure you have the following installed:
   ```bash
   sh -c "$(curl -sSfL https://release.solana.com/stable/install)"
   ```
-
 - **Anchor CLI** (v0.30.0 or later)
   ```bash
   cargo install --git https://github.com/coral-xyz/anchor avm --locked --force
